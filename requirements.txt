@@ -1,0 +1,6 @@
+tensorflow>=2.16
+tensorboard
+mlflow>=2.14
+dagshub>=0.3
+pandas
+numpy
